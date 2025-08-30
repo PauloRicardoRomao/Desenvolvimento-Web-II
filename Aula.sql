@@ -9,4 +9,15 @@ create table if not exists  produto(
 );
 
 
-select * from produto
+select * from produtos;
+
+
+
+SHOW DATABASES;
+USE Loja;
+SHOW TABLES;
+SELECT * FROM Produtos;
+
+USE Loja;
+SHOW TABLES;
+
